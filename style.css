@@ -4,7 +4,7 @@ margin-top: 10px;
 }
 .hgm{      /* for main headding rk mart and footer*/
     text-align: center;
-    margin-top: 10px;
+   
     font-family:'Times New Roman', Times, serif;
     font-weight:900;
     color:rgb(12, 12, 52);
@@ -12,11 +12,13 @@ margin-top: 10px;
     padding: 10px;
     margin: 0 10px 0 0;
     width: 100%;
+   
+    
   
 }
 .bg{                  /*for body*/
-    background-color: rgb(12, 12, 52);
-    display: grid;
+    background-color: rgb(14, 12, 52);
+    display:grid;
     margin: 0px;
 }
 .hgc{         /* for sub headdings about,contact,samplw*/
@@ -24,24 +26,38 @@ margin-top: 10px;
     font-weight: 700;
    margin-top: 10px;
    margin-bottom: 25px;
+   
 }
-.cp{                       /* for paragraphs*/
+.cp{                       /* for paragraphs side headdings*/
     color: rgb(188, 188, 227);
     font-weight: 500;
+    margin: 5%;
 }
 a{
     display: inline;
 
 }
 .imgg{
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-bottom: 10px; 
+
+   width:90%;
+  
+  margin: 5%;
+  
 }
 .imgg1{
     height: 20px;
     padding: 1px;
-    margin-left: 220px;
-    margin-right: 220px; 
-    
+    margin-left: 22%;
 }
+.imgg:hover{
+    width: 91%;
+}
+.hgc:hover{
+color:rgb(171, 172, 175) ;
+
+}
+.cp:hover{
+    color: white;
+}
+
+
