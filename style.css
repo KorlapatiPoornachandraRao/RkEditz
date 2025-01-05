@@ -40,14 +40,14 @@ a{
 .imgg{
 
    width:90%;
-  
   margin: 5%;
   
 }
 .imgg1{
-    height: 20px;
+    width: 7%;
     padding: 1px;
-    margin-left: 22%;
+    margin-left: 20%;
+    border-radius: 100%;
 }
 .imgg:hover{
     width: 91%;
